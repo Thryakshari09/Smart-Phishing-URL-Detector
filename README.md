@@ -1,4 +1,4 @@
-# Smart Phishing URL Detector (Streamlit)
+# CyberShield URL Scanner
 
 A college-level cybersecurity project that classifies URLs as **Safe**,
 **Suspicious**, or **Phishing** using:
