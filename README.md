@@ -43,3 +43,7 @@ Streamlit will open the app in your browser (default: http://localhost:8501).
 - Otherwise, the trained model in `model.py` predicts:
   - **Safe** (green) or **Phishing** (red), with confidence score.
 - Empty / invalid input is handled with inline error messages.
+
+url:
+  Local URL: http://localhost:8501
+  Network URL: http://10.100.3.113:8501
